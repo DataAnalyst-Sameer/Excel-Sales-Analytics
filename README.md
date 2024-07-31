@@ -9,9 +9,9 @@ This project aims to create detailed sales and finance reports to help businesse
 
 **Project Objectives:**
 
-- [x] Create a Customer Performance Report.
+- [x] Create a [Customer Performance Report](https://github.com/DataAnalyst-Sameer/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
   
-- [x] Conduct a comprehensive comparison between Market Performance and Sales Targets.
+- [x] Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/DataAnalyst-Sameer/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
   
   - Purpose
   
@@ -30,8 +30,9 @@ This project aims to create detailed sales and finance reports to help businesse
 **Finance Report**
 
 **Project Objectives** 
-- [x] Create Profit and Loss (P&L) reports by Fiscal Year & Months
-- [x] Create Profit and Loss (P&L) reports by Markets
+- [x] Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/DataAnalyst-Sameer/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/DataAnalyst-Sameer/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+
+- [x] Create Profit and Loss (P&L) reports by _[Markets](https://github.com/DataAnalyst-Sameer/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
   - Purpose
 
